@@ -16,7 +16,7 @@ Information retrieval and analysis tools use ML and deep learning (DL) algorithm
 Semantic Analysis Tools
 -----------------------
 
-Semantic analysis tools use NLP and ML algorithms to analyze the meaning and context of written content. These tools can help writers improve the clarity and precision of their writing by identifying areas where language usage may be ambiguous or unclear. Examples of popular semantic analysis tools include Hugging Face and OpenAI GPT-3.
+Semantic analysis tools use NLP and ML algorithms to analyze the meaning and context of written content. These tools can help writers improve the clarity and precision of their writing by identifying areas where language usage may be ambiguous or unclear. Examples of popular semantic analysis tools include Hugging Face and OpenAI GPT-3.5.
 
 Distraction Management and Mental Health Monitoring Tools
 ---------------------------------------------------------
