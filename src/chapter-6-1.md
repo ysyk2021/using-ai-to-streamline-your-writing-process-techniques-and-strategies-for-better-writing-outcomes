@@ -1,5 +1,3 @@
-Transforming Writing Process from Passive to Active and Dynamic
-===============================================================================================================
 
 Artificial Intelligence (AI) technology has revolutionized the writing process, transforming it from a passive to an active and dynamic practice. In this chapter, we will explore how AI has transformed the writing process.
 

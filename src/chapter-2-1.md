@@ -1,5 +1,3 @@
-Basic Concepts and Processes of AI Algorithms for Writing Analysis and Optimization
-================================================================================================================================================
 
 Artificial intelligence (AI) technology offers powerful solutions for enhancing writing efficiency and quality. However, to effectively leverage AI for writing practice, it is essential to have a basic understanding of AI algorithms and processes. In this chapter, we will explore the basic concepts and processes of AI algorithms for writing analysis and optimization.
 

@@ -1,5 +1,3 @@
-Leveraging AI-Enabled Editing and Proofreading Tools for Higher Quality Writing
-========================================================================================================================================
 
 AI-enabled editing and proofreading tools offer powerful solutions for improving the quality of written content. These tools use machine learning algorithms to analyze written content and provide suggestions for improvement. In this chapter, we will explore how to leverage AI-enabled editing and proofreading tools for higher quality writing.
 

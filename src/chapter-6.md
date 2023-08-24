@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Writing Process
-==============================================
 
 The impact of artificial intelligence (AI) technology on the writing process has been significant, transforming it from a passive to an active and dynamic practice. In this chapter, we will explore the impact of AI on the writing process.
 

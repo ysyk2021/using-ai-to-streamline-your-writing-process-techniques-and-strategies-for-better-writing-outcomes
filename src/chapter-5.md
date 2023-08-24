@@ -1,5 +1,3 @@
-Chapter 5: AI Strategies for Efficient Writing Practice
-=======================================================
 
 Artificial intelligence (AI) technology offers powerful solutions for enhancing writing efficiency and quality. In this chapter, we will explore several AI strategies for efficient writing practice.
 

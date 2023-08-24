@@ -1,5 +1,3 @@
-Improving Quality, Efficiency, and Relevance of Writing Outputs
-===============================================================================================================
 
 Artificial Intelligence (AI) technology has had a significant impact on the writing process by improving the quality, efficiency, and relevance of writing outputs. In this chapter, we will explore how AI has improved the writing process.
 

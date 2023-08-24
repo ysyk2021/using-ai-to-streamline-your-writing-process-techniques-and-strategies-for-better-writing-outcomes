@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Writing Practice
-================================================================================================================
 
 Artificial intelligence (AI) technology offers powerful solutions for enhancing writing efficiency and quality. To effectively leverage AI for writing practice, it is essential to have a basic understanding of the tools and platforms available for AI-enabled writing practice. In this chapter, we will explore some of the popular tools and platforms for AI-enabled writing practice.
 

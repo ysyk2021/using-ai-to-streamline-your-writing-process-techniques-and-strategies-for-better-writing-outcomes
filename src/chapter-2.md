@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Writing Practice
-===========================================================
 
 Artificial intelligence (AI) technology offers powerful solutions for enhancing writing efficiency and quality. To effectively leverage AI for writing practice, it is essential to have a basic understanding of AI algorithms and processes. In this chapter, we will explore the basic concepts and processes of AI algorithms for writing analysis and optimization, different types of AI techniques and applications for writing practice, and tools and platforms for AI-enabled writing practice.
 

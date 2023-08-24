@@ -1,5 +1,3 @@
-Reducing Writer's Block with AI-Enabled Idea Generation and Inspiration
-==================================================================================================================================
 
 Writer's block can be a significant barrier to efficient and high-quality writing. Advances in artificial intelligence (AI) technology are transforming the way we generate ideas and find inspiration, enabling us to reduce writer's block with AI-enabled idea generation and inspiration.
 

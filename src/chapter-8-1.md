@@ -1,5 +1,3 @@
-The Future of AI in Writing Process
-==========================================================
 
 Artificial intelligence (AI) technology has already transformed the writing process, offering powerful solutions for enhancing writing efficiency and quality. As AI continues to evolve, we can expect even more innovative AI-powered writing tools in the future.
 

@@ -1,5 +1,3 @@
-Enhancing Research and Fact-checking with AI-Enabled Information Retrieval and Analysis
-================================================================================================================================================
 
 Artificial intelligence (AI) technology has transformed the writing process, enabling writers to achieve better writing outcomes that drive engagement, relevance, and impact. In this chapter, we will explore how AI-enabled information retrieval and analysis can enhance research and fact-checking in writing practice.
 

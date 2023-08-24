@@ -1,5 +1,3 @@
-Enabling Continuous Learning and Improvement in Writing Practice
-================================================================================================================
 
 Artificial Intelligence (AI) technology has not only transformed the writing process from a passive to an active and dynamic practice but also enabled continuous learning and improvement in writing practice. In this chapter, we will explore how AI enables continuous learning and improvement in writing practice.
 

@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enhanced Writing Practice
-=========================================================================================================================================
 
 To evaluate the impact of artificial intelligence (AI) on the writing process, it is important to identify key performance metrics and goals for AI-enhanced writing practice. In this chapter, we will explore how to evaluate the impact of AI on the writing process.
 

@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Writing Process
-=========================================================
 
 To evaluate the impact of artificial intelligence (AI) on the writing process, it is important to measure the return on investment (ROI) and effectiveness of AI implementation in writing process. It is also essential to identify key performance metrics and goals for AI-enhanced writing practice. In this chapter, we will explore how to evaluate the impact of AI on the writing process.
 
