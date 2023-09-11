@@ -1,5 +1,4 @@
-Chapter 6: Tools and Platforms for AI-Enabled Writing Practice
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Incorporating AI into your writing practice is essential for achieving better writing outcomes. This chapter explores a range of tools and platforms that empower writers to streamline their writing process, harness AI capabilities, and enhance their writing skills.
 

@@ -1,5 +1,4 @@
-Chapter 3: Basic Concepts and Processes of AI Algorithms for Writing Analysis and Optimization
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To harness the full potential of AI for streamlining your writing process and achieving better writing outcomes, it's essential to understand the fundamental concepts and processes of AI algorithms used in writing analysis and optimization. In this chapter, we'll explore these core principles.
 

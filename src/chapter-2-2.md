@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Applications for Writing Practice
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has introduced a wide array of techniques and applications that can significantly enhance the writing practice. This chapter explores various AI approaches and their applications in the context of writing, offering insights into how writers can leverage these technologies for better writing outcomes.
 

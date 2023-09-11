@@ -1,5 +1,4 @@
-Chapter 9: Transforming the Writing Process from Passive to Active and Dynamic
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital age, writing is no longer a static endeavor but an active and dynamic process. Artificial Intelligence (AI) plays a pivotal role in transforming the writing process, making it more responsive, adaptable, and efficient. In this chapter, we explore how AI can help writers shift from passive to active and dynamic writing practices.
 

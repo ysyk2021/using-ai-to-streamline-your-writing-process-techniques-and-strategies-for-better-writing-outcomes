@@ -1,5 +1,4 @@
-Chapter 7: Creating a Customized Roadmap for AI Implementation in Your Writing Strategy
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of developing a personalized roadmap for implementing AI in your writing strategy. As AI technologies continue to evolve, harnessing their power effectively can lead to significant improvements in your writing outcomes. By tailoring your approach to your specific needs and goals, you can streamline your writing process and achieve better results.
 

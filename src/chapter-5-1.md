@@ -1,5 +1,4 @@
-Chapter 5: Leveraging AI-Enabled Editing and Proofreading Tools for Higher Quality Writing
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful capabilities of AI-enabled editing and proofreading tools that can significantly enhance the quality of your writing. As technology continues to advance, these tools have become indispensable aids for writers, helping them catch errors, improve clarity, and refine their writing style. Whether you're a seasoned author or a novice writer, incorporating AI-driven editing and proofreading into your writing process can lead to better outcomes.
 

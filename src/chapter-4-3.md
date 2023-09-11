@@ -1,5 +1,4 @@
-Chapter 5: Reducing Writer's Block with AI-Enabled Idea Generation and Inspiration
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Writer's block can be a frustrating obstacle in the writing process, but with the assistance of Artificial Intelligence (AI), writers can overcome creative stagnation and find inspiration more readily. In this chapter, we delve into how AI can serve as a valuable tool for reducing writer's block by generating ideas and providing inspiration.
 

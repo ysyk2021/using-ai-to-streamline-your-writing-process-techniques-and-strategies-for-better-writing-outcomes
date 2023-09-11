@@ -1,5 +1,4 @@
-Chapter 8: Enabling Continuous Learning and Improvement in Writing Practice
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Writing is an ever-evolving skill, and continuous learning and improvement are essential for writers to stay competitive and produce better outcomes. In this chapter, we explore how Artificial Intelligence (AI) can be a valuable tool in facilitating ongoing growth in your writing practice.
 
